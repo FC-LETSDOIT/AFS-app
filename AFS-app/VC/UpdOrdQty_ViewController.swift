@@ -19,7 +19,6 @@ class UpdOrdQty_ViewController: UIViewController{
     
     @IBAction func ChangeOrdQtyAct(_ sender: Any) {
     }
-    
     var QRM:QRManager?
     var CustTblViewCellSet:CustomTblViewCellSetting?
     var searchBar:searchBar?
